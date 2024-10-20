@@ -1,5 +1,5 @@
 Hey there, This is Vinit 
-Here to expand my knowledge basically.
+here to expand my knowledge basically.
 
 <!---
 VinitMehra/VinitMehra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
